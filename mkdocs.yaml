@@ -1,0 +1,9 @@
+site_name: 'Documentation Template'
+repo_url: https://github.com/harness-idp-sandbox/rbg-java-harness-two
+edit_uri: https://github.com/harness-idp-sandbox/rbg-java-harness-two/blob/main/docs/index.md
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
